@@ -1,3 +1,4 @@
+# THIS REPO HAS BEEN MOVED [TO HERE](https://github.com/kittyteggie/kittyutils)
 # Kit: An extremely simple text file viewer
 This is a really simple text viewer written in C, you can only read text files. That's it ;-;  
 
